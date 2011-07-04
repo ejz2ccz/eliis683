@@ -1,0 +1,66 @@
+ders h1, h3, h5{
+background-color:orange;
+text-align:center;
+padding:10px;
+border:5px solid gray;
+margin-left:300px;
+width:620px;
+}
+#headers h2, h4, h6{
+background-color:brown;
+text-align:center;
+padding:10px;
+border:5px solid gray;
+margin-left:300px;
+width:620px;
+
+}
+
+#container{
+margin-left:auto;
+margin-right:auto;
+
+}
+#top_list li{
+display:inline;
+font-size:30pt;
+background-color:yellow;
+width:70%;
+}
+#secondary_nav{
+//margin-left: 100px;
+backgroud-color:red;
+width:320px;
+float:left;
+}
+
+th{
+text-align:left;
+border: 1px solid black;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+border: 1px solid black;
+}
+
+.line1{
+background-color:blue;
+border: 1px solid black;
+}
+
+.line2{
+background-color:red;
+border: 1px solid black;
+}
+
+.line3{
+background-color:green;
+}
+
+a:hover {color:#FF00FF;}
+p. paragraph{
+text-align:center;
+	font-style:
+}
